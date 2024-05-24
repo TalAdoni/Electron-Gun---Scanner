@@ -34,5 +34,4 @@ This LabVIEW program controls an electron gun scanner and is compatible with NI-
 - Always stop the program before changing settings or switching tabs.
 
 ## Author
-- Tal Adoni
-- Ben Gurion University
+- Tal Adoni - Ben Gurion University
